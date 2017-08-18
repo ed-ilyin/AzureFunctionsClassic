@@ -1,4 +1,4 @@
 source https://www.nuget.org/api/v2
 nuget FAKE
 nuget FSharp.Core ~> 4.0.0.1
-nuget Microsoft.NET.Sdk.Functions
+nuget Microsoft.NET.Sdk.Functions 1.0.0-alpha6
